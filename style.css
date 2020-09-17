@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+html {
+    width: 800px;
+    margin: 0 auto;
+}
+img {
+    width: 550px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul, p {
+    font-size: 18px;
+}
